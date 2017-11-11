@@ -1,0 +1,15 @@
+{
+  "name": "fablab-twitter-fetch",
+  "version": "1.0.0",
+  "description": "KUET FABLAB Raspberry Pi Project for Interacting with Twitter API",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Shahriar Shovon",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.2",
+    "twitter": "^1.7.1"
+  }
+}
